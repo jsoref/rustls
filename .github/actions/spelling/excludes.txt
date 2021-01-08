@@ -1,0 +1,17 @@
+^\.github/
+ignore$
+(?:^|/)Cargo\.toml$
+(?:^|/)LICENSE
+\.cert$
+\.chain$
+\.der$
+\.p12$
+\.rsa$
+\.bin$
+\.diff$
+\.fullchain$
+\.key$
+\.pdf$
+\.pem$
+\.png$
+\.req$
